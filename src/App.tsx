@@ -36,7 +36,7 @@ function App() {
       <header className="app-header animate-fade-down">
         <div className="header-inner">
           <img src={maboloIcon} alt="Mabolo icon" className="header-logo" />
-          <h1 className="app-title">Jardin De Mabolo</h1>
+          <h1 className="app-title">Jardin de Mabolo</h1>
         </div>
         <p className="app-subtitle">A showcase of Mabolo Men's Home crops</p>
       </header>

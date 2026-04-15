@@ -367,8 +367,7 @@ export const plants: Plant[] = [
       "Rich in antioxidants",
       "Traditional remedy for fever and colds",
     ],
-  },
-  {
+  },{
     id: "vetiver",
     name: "Vetiver",
     scientificName: "Chrysopogon zizanioides",
@@ -381,6 +380,21 @@ export const plants: Plant[] = [
       "Antimicrobial properties support skin health",
       "Root extracts used in traditional medicine",
       "Natural insect repellent",
+    ],
+  },
+  {
+    id: "pandan",
+    name: "Pandan",
+    scientificName: "Pandanus amaryllifolius",
+    imageUrl: "/images/pandan-leaves.webp",
+    description:
+      "Pandan is a fragrant tropical plant widely used in Southeast Asian cooking. Its long, aromatic leaves are commonly infused in rice, desserts, and drinks.",
+    healthBenefits: [
+      "Contains natural antioxidants",
+      "Traditionally used to support digestion",
+      "Aromatic compounds may promote relaxation",
+      "Used in herbal remedies in some local practices",
+      "Adds flavor naturally, reducing need for added sugar",
     ],
   },
 ];
