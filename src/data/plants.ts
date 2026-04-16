@@ -149,13 +149,13 @@ export const plants: Plant[] = [
     scientificName: "Capsicum annuum",
     imageUrl: "/images/atsal.webp",
     description:
-      "Atsal, also known as achara or pickled papaya, is a traditional Filipino side dish made from green papaya. It is sweet, tangy, and often served alongside fried or grilled foods.",
+      "Bell pepper, known locally as atsal, is a colorful and versatile vegetable widely cultivated in Filipino gardens. With its sweet flavor and crisp texture, it is used fresh in salads, stir-fries, and various Filipino dishes.",
     healthBenefits: [
-      "Papaya contains digestive enzymes",
-      "Probiotics from fermentation support gut health",
-      "Rich in vitamin C",
-      "Low calorie condiment option",
-      "Ginger in the recipe aids digestion",
+      "Rich in vitamin C for immune support",
+      "Contains capsanthin, a powerful antioxidant",
+      "High in vitamins A and E for eye and skin health",
+      "Low in calories, excellent for weight management",
+      "Supports heart health and reduces inflammation",
     ],
   },
   {
@@ -234,18 +234,18 @@ export const plants: Plant[] = [
     ],
   },
   {
-    id: "celery",
-    name: "Celery",
-    scientificName: "Apium graveolens",
-    imageUrl: "/images/celery.webp",
+    id: "parsley",
+    name: "Parsley",
+    scientificName: "Petroselinum crispum",
+    imageUrl: "/images/parsley.webp",
     description:
-      "Celery is a crunchy, aromatic vegetable known for its distinct stalks and leafy greens. It is commonly used in soups, salads, and as a healthy snack on its own.",
+      "Parsley is a vibrant green herb widely used in Filipino and international cuisines. With its fresh, slightly peppery flavor, it is commonly used as a garnish, in soups, and in traditional herbal remedies.",
     healthBenefits: [
-      "Very low in calories, ideal for weight management",
-      "Contains vitamin K and folate",
-      "Natural anti-inflammatory compounds",
-      "High water and electrolyte content",
-      "May help lower blood pressure",
+      "Exceptionally rich in vitamin K for bone health",
+      "High in vitamin C and antioxidants",
+      "Contains folate important for cell function",
+      "Natural diuretic properties support kidney health",
+      "May help reduce inflammation and improve digestion",
     ],
   },
   {
