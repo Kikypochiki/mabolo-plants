@@ -129,6 +129,36 @@ export const plants: Plant[] = [
     ],
   },
   {
+    id: "water-spinach",
+    name: "Water Spinach",
+    scientificName: "Ipomoea aquatica",
+    imageUrl: "/images/water-spinach.webp",
+    description:
+      "Water spinach, commonly called kangkong in the Philippines, is a leafy semi-aquatic vegetable widely used in stir-fries, soups, and salads. It has tender stems and mild, earthy leaves that cook quickly.",
+    healthBenefits: [
+      "Rich in vitamins A and C for immune and skin health",
+      "High in iron and folate to support blood health",
+      "Contains fiber that aids digestion",
+      "Provides antioxidants that help reduce oxidative stress",
+      "Low in calories and suitable for balanced diets",
+    ],
+  },
+  {
+    id: "camote-tops",
+    name: "Camote Tops",
+    scientificName: "Ipomoea batatas",
+    imageUrl: "/images/camote-tops.webp",
+    description:
+      "Camote tops are the young leaves and shoots of the sweet potato plant. In Filipino households, they are commonly blanched for salads, added to soups, or prepared as a refreshing herbal drink.",
+    healthBenefits: [
+      "Rich in anthocyanins and polyphenols with antioxidant effects",
+      "Good source of vitamins A and C",
+      "Contains iron and calcium for overall wellness",
+      "Supports digestive health through dietary fiber",
+      "Traditionally consumed to help support healthy blood sugar levels",
+    ],
+  },
+  {
     id: "sibuyas-dahon",
     name: "Spring Onion",
     scientificName: "Allium fistulosum",
